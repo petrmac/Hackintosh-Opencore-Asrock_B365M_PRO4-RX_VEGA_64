@@ -10,7 +10,7 @@
 ## Software
 | Software    | Version                      |
 | ----------- | ---------------------------- |
-| Opencore    | 0.5.9                        |
+| Opencore    | 0.6.3                        |
 | OSX         | Catalina / 10.15.7           |
 | Bios        | 0803                         |
 
