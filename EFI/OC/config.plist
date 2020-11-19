@@ -223,6 +223,11 @@
 				<key>PP_ToolsLogSpaceSize</key>
 				<integer>524288</integer>
 			</dict>
+			<key>PciRoot(0x0)/Pci(0x1F,0x6)</key>
+			<dict>
+				<key>built-in</key>
+				<data>AQ==</data>
+			</dict>
 		</dict>
 		<key>Delete</key>
 		<dict/>
@@ -796,7 +801,7 @@
 			<key>MLB</key>
 			<string>C02041207J9KGQG1F</string>
 			<key>ROM</key>
-			<data>ESIzRFVm</data>
+			<data>qKFZPql9</data>
 			<key>SpoofVendor</key>
 			<true/>
 			<key>SystemProductName</key>
